@@ -26,9 +26,7 @@ docker-compose build mbta
 docker-compose run mbta python main.py
 ```
 
-# Question 3
-
-I didn't get a chance to implement this but did think about it and supplied some pseudo code in main.py
+# Answers for Q1 and Q2
 
 ```
 QUESTION 1
@@ -149,3 +147,7 @@ Green Line D
 Green Line E
 Blue Line
 ```
+
+# Q3
+
+I didn't get a chance to implement this but did think about it and supplied some pseudo code in main.py
