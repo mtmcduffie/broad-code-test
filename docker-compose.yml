@@ -1,0 +1,9 @@
+version: '3.3'
+
+services:
+   mbta:
+    build:
+        context: ./
+    volumes:
+        - ./:/app
+    env_file: .env
